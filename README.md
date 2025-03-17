@@ -47,6 +47,3 @@ with <kbd>git add</kbd> and commit. After the commit you will see a different
 commit id next to the submodule when you view the remote repository in the browser.
 
 
-# HW3Project
-# HW3Project
-# HW3Project
